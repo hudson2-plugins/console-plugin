@@ -38,6 +38,8 @@ THE SOFTWARE.
 
   <name>Hudson Console Plugin</name>
 
+  <url>http://wiki.hudson-ci.org/display/HUDSON/Console+Plugin</url>
+
   <licenses>
     <license>
       <name>The MIT license</name>
